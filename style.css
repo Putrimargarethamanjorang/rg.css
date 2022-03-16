@@ -1,0 +1,31 @@
+* {
+    background-color: blanchedalmond;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    padding:20px;
+    margin: 30px;   
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p {
+    font-style: italic;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(206, 132, 36);
+    
+}
+td > span {
+font-size: 16px;
+}
+
+th{
+    font-style: inherit;
+    margin: 20px;
+}
